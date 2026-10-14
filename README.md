@@ -1,7 +1,9 @@
 Actividad 5 - Laboratorios 3.4 y 3.5 de Amazon SageMaker
 
 Estudiante: Karen Dayanna Sanchez Pastuso
+
 Curso: Ingeniería de Software, Universidad de La Salle
+
 Rama de trabajo: dev_ksanchez90
 
 ¿Qué hice en esta actividad?
